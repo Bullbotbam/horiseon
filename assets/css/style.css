@@ -2,6 +2,7 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+    overflow-x: auto;
 }
 
 header {
@@ -88,9 +89,14 @@ p {
     color: #ffffff;
 }
 
+.benefits-section {
+    margin: auto;
+    padding: auto;
+}
+
 .benefits p {
     text-align: inherit;
-    margin-bottom: 30px;
+    margin: 20px;
 }
 
 
@@ -102,7 +108,7 @@ p {
 
 .benefits img {
     display: block;
-    margin: 15px auto;
+    margin: auto;
     max-width: 130px;   
 }
 
