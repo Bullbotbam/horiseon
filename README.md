@@ -2,7 +2,9 @@
 https://bullbotbam.github.io/horiseon/
 
 ## Description 
+added screenshot for description...
 
+![horiseon](https://github.com/Bullbotbam/horiseon/blob/main/assets/images/bullbotbam-horiseon.png)
 
 ## Table of Contents (Optional)
 
