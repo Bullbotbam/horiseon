@@ -2,9 +2,8 @@
 https://bullbotbam.github.io/horiseon/
 
 ## Description 
-added screenshot for description...
+modified imput to clean up this app
 
-![horiseon](https://github.com/Bullbotbam/horiseon/blob/main/assets/images/bullbotbam-horiseon.png)
 
 ## Table of Contents (Optional)
 
@@ -17,35 +16,22 @@ added screenshot for description...
 
 ## Installation
 
-
+use the link to visit the page online
 
 
 ## Usage 
 
-Instructions and examples for use. Included screenshots as needed. 
+![horiseon](https://github.com/Bullbotbam/horiseon/blob/main/assets/images/bullbotbam-horiseon.png)
 
 
-
-## Credits
-
-
-
-## License
-
-
-## Badges
-
-
-## Features
-
-If project has a lot of features, a heading wil be called "Features" and listed there.
 
 ## Contributing
+Worke on this project solo but was activiely investigataing strategies with my cohorts.
 
 
 ## Tests
 
-If tests were conducted for your application. Examples on how to run them are listed here.
+I tested this site daily to make sure all links are operational.
 
 ---
 
